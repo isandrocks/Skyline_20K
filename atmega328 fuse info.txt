@@ -1,0 +1,4 @@
+#ATMega328P Fuses
+avrdude -c avrisp -p m328p -P (replace with port) -v -u -U lfuse:w:0xFF:m
+avrdude -c avrisp -p m328p -P (replace with port) -v -u -U hfuse:w:0xD8:m
+avrdude -c avrisp -p m328p -P (replace with port) -v -u -U efuse:w:0xFF:m
