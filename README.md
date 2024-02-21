@@ -15,3 +15,8 @@ this also acts as a sort of stand for the keypad if you dont make a case for it.
 Test configuration for the snap away parts 
 
 ![skyline_mu](https://imgur.com/Yout86s.png)
+
+### First prototype done but i messed up the pads for the lighting so i need to redo some parts 
+
+![skyline_proto](https://imgur.com/lU7MzPv.jpg)
+![skyline_proto](https://imgur.com/lFEncPf.jpg)
