@@ -6,7 +6,7 @@
 # License: GNU GPL v2 (see License.txt)
 
 F_CPU = 16000000
-DEVICE = atmega32
+DEVICE = atmega328
 
 # where the updating firmware should be located (starting address)
 FLASHADDRESS = 0x0000
